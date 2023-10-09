@@ -1,5 +1,5 @@
 <div class="container-fluid bg-dark ">
-    <div class="container mt-5 bg-dark text-light  ">
+    <div class="container mt-5 bg-dark text-light">
         <div class="row">
             <div class="col-md-4 mt-5 ">
                 <i class="h3 "> About Victor</i>
@@ -11,7 +11,7 @@
                     odio…
                 </p>
             </div>
-            <div class="col-md-4 text-center mt-5 ">
+            <div class="col-md-4 text-center mt-5">
                 <i class="h3">Upcoming Events</i>
                 <h5 class="mt-5">AUGUST 24 / 2020 / 12:00 AM</h5>
                 <span class="mt-5">Fresno, CA – Reading & Signing</span><br>
