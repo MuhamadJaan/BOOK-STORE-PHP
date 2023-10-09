@@ -18,7 +18,7 @@
                 <nav class=" text-dark">CONTACT</nav>
             </a>
             <a href="#"><i class="fa fa-shopping-cart mt-3 p-1 text-dark" aria-hidden="true">
-                </i>
+            </i>
         </div>
         </a>
     </div>
