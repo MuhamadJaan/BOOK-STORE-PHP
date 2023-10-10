@@ -23,7 +23,7 @@ include('../Front-end/Layouts/navbar.php')
       <button class="p-2 w-25 mt-3 bg-dark text-light">Read more</button>
     </div>
     <div class="col-md-6 col-12  mt-2 ">
-      <img src="../Front-end/images/k1.png" alt="" width="99%">
+      <img src="../Front-end/images/k1.png" alt="img is not found" width="99%">
     </div>
   </div>
 </div>
@@ -40,7 +40,7 @@ include('../Front-end/Layouts/navbar.php')
 <div class="container-fluid  bg-light mt-5">
   <div class="row align-content-lg-center">
     <div class="col-md-6 col-sm-12 mt-5 text-center">
-      <img src="../Front-end/images/k2.png" alt="">
+      <img src="../Front-end/images/k2.png" alt="img is not found">
     </div>
     <div class="col-md-6 col-sm-12 mt-5">
       <h1 class="fw-bolder mt-5 ">About the author</h1>
@@ -77,7 +77,7 @@ include('../Front-end/Layouts/navbar.php')
     <div class="row">
       <div class="cols-md-12 col-sm-12 ">
         <div class="bg text-center ">
-          <img class="mt-5 " src="../Front-end/images/k3.png" alt="" width="95%">
+          <img class="mt-5 " src="../Front-end/images/k3.png" alt="img is not found" width="95%">
         </div>
       </div>
     </div>
@@ -119,7 +119,7 @@ include('../Front-end/Layouts/navbar.php')
 <div class="container ">
   <div class="row mt-5">
     <div class="col-md-4 mt-5">
-      <img src="../Front-end/images/k4.png" alt="">
+      <img src="../Front-end/images/k4.png" alt="img is not found">
       <h1>Lines from poems</h1>
       <h4>Victor Hansen</h4>
       <span>$20.00</span>
@@ -129,7 +129,7 @@ include('../Front-end/Layouts/navbar.php')
       <a href="#"><button class="mt-3 rounded-pill bg-success text-light">Add to cart</button></a>
     </div>
     <div class="col-md-4 mt-5">
-      <img src="../Front-end/images/k5.png" alt="">
+      <img src="../Front-end/images/k5.png" alt="img is not found">
       <h1>line from Victor jack</h1>
       <h4>Victor jack</h4>
       <span>$10.00</span>
@@ -139,7 +139,7 @@ include('../Front-end/Layouts/navbar.php')
       <a href="#"> <button class="mt-3 rounded-pill bg-success text-light">Add to cart</button></a>
     </div>
     <div class="col-md-4 mt-5">
-      <img src="../Front-end/images/k6.png" alt="">
+      <img src="../Front-end/images/k6.png" alt="img is not found">
       <h1>Lines from jassan</h1>
       <h4>Victor jassan roye </h4>
       <span>$12.00</span>

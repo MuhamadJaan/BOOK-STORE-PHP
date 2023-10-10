@@ -48,7 +48,7 @@ include('../Front-end/Layouts/navbar.php')
 </div>
 <div class="container-fluid mt-5">
     <div class="col-lg-12 text-center">
-        <img src="../Front-end/images/bg2.jpg" width="90%" alt="">
+        <img src="../Front-end/images/bg2.jpg" width="90%" alt="img is not found">
     </div>
 </div>
 <div class="container mt-5">
