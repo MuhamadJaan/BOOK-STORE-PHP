@@ -1,9 +1,0 @@
-<?php
-  include('../front-end/Layouts/header.php')
-?>
-<?php
-  include('../front-end/Layouts/navbar.php')
-?>
-<?php
-  include('../front-end/Layouts/footer.php')
-?>
