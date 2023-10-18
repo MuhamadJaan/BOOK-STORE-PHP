@@ -1,11 +1,12 @@
 <?php
 include('../Front-end/Layouts/header.php')
     ?>
+    <div class="bg_img">
 <?php
 include('../Front-end/Layouts/navbar.php')
     ?>
-<div class="bg_img">
-</div>
+    </div>
+
 <div class="container mt-5">
     <div class="row">
         <div class="col-lg-12">

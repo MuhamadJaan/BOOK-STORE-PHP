@@ -1,9 +1,11 @@
 <?php
 include('../Front-end/Layouts/header.php')
     ?>
+    <div class="bg_img">
 <?php
 include('../Front-end/Layouts/navbar.php')
     ?>
+    </div>
 <div class="container">
     <div class="row mt-5 ">
         <div class="col-md-12 text-center">
