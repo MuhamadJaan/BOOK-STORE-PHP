@@ -8,9 +8,10 @@
     <title>Document</title>
     <style>
         .bg_img {
-            background-image: url(../Front-end/images/bg1.jpg);
+            background-image: url('../Front-end/images/k11.png');
             background-repeat: no-repeat;
             background-size: cover;
+            height:360px;
             background-position: center;
         }
     </style>
